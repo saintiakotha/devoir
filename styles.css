@@ -1,0 +1,57 @@
+h1{
+
+background: deepskyblue;
+
+
+
+}
+body{
+    background-color:darkkhaki
+      
+}
+.image h2{
+    font-size:larger;
+    text-align: center;
+}
+
+.btn {
+    padding: 0px 12px;
+    border-radius: 44px;
+  }
+.btn-primary {
+    background-color: #ff00aa;
+    color: white;
+  }
+  
+    
+  .image-contener{
+display: flex;
+justify-content: space-between;
+align-items: center ;
+gap: 10px;
+
+  }
+  .video{
+
+display: flex;
+justify-content: space-between;
+align-items: center;
+gap: 15px;
+  }
+
+  #musique{
+    display: flex;
+justify-content: space-between;
+align-items: center;
+gap: 14px;
+  }
+
+  #btn {
+    padding: 0px 12px;
+    border-radius: 44px;
+  }
+#btn-primary {
+    background-color: #ff00aa;
+    color: white;
+  }
+
